@@ -1,1 +1,1 @@
-# RAG-Project
+# RAG Chatbot Project
